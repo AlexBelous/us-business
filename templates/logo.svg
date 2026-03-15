@@ -1,0 +1,7 @@
+<svg viewBox="0 0 140 162" xmlns="http://www.w3.org/2000/svg">
+  <polygon points="70,0 139.3,40 139.3,120 70,160 0.7,120 0.7,40" fill="none" stroke="#0B2545" stroke-width="5" stroke-linejoin="round"/>
+  <line x1="20" y1="62" x2="120" y2="62" stroke="#0B2545" stroke-width="1" opacity="0.2"/>
+  <path d="M20,62 L40,62 Q56,56 62,18 Q66,0 70,18 Q76,56 92,62 Q100,56 106,38 Q108,28 110,38 Q114,56 120,62" fill="none" stroke="#3E92CC" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M40,62 Q56,56 62,18 Q66,0 70,18 Q76,56 92,62 Z" fill="#3E92CC" opacity="0.1"/>
+  <text x="70" y="105" text-anchor="middle" font-family="Georgia,serif" font-size="48" font-weight="700" fill="#0B2545" letter-spacing="4" dominant-baseline="central">DM</text>
+</svg>
